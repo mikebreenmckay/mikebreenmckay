@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 ## I'm a Mathematician and Data Scientist!
 
-I'm in the process of building up my personal repo and contributing to more open source projects. I'm spending a lot of my time reviewing the literature on machine learning, building new models, and making connections in the community. 
+I'm in the process of building up my personal repo and contributing to more open source projects. I'm spending a lot of my time reviewing the literature on machine learning, building new models, and making connections in the community. I've also committed to giving back to my local community by teaching at least one class a year at the local community college, Durham Tech. This semester I get to teach statistics, which I am really looking forward to!
 
 - 🔭 I’m currently working on a deep learning model for predicting heart disease from health indicators.
 - 🌱 I’m currently learning more about customizing LLMs with proprietary data.
